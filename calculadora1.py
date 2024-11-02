@@ -2,6 +2,7 @@
 #31/10/2024
 #grupo 2 semestre 5
 #CAMBIO PARA VALIDAR CI/CD
+#otro cambio
 
 import tkinter as tk
 
@@ -12,6 +13,7 @@ def suma():
         resultado.set("Error")
 
 def resta():
+
     try:
         resultado.set(float(entry1.get()) - float(entry2.get()))
     except ValueError:
