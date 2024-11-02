@@ -7,7 +7,7 @@ import tkinter as tk
 
 def suma():
     try:
-        resultado.set(float(entry1.get()) + float(entry2.get()))
+        resultado.set(float(entry1. get()) + float(entry2.get()))
     except ValueError:
         resultado.set("Error")
 
