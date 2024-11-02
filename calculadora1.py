@@ -1,6 +1,7 @@
 #luis jose diaz urieles
 #31/10/2024
 #grupo 2 semestre 5
+#CAMBIO PARA VALIDAR CI/CD
 
 import tkinter as tk
 
